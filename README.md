@@ -1,10 +1,10 @@
-## Tharlei Aleixo
+# Tharlei Aleixo
 
 Hi! 😁 I'm a Full Stack Developer, since 2017 with programming experience. 👨🏻‍💻🚀
 
 ___
 
-### Technologies used
+## Technologies used
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="Logo HTML 5"
@@ -42,7 +42,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharlei&la
 
 ___
 
-### Contacts
+## Contacts
 
 <a href="https://www.linkedin.com/in/tharleialeixo/" target="_blank" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=white" />
