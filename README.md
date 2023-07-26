@@ -12,7 +12,7 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="Logo CSS 3"
         style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"
-        alt="Logo Tailwind CSS" style="margin-right: 0.5rem;" />
+        alt="Logo TailwindCSS" style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         alt="Logo Javascript" width="40" style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
@@ -28,11 +28,31 @@ ___
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Logo Laravel"
         style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        alt="Logo Postgres SQL" width="40" style="margin-right: 0.5rem;" />
+        alt="Logo PostgresSQL" width="40" style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="Logo MySQL"
         style="margin-right: 0.5rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"
         alt="Logo Docker" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"
+        alt="Logo Redis" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"
+        alt="Logo Git" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40"
+        alt="Logo Nuxt.js" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"
+        alt="Logo Next.js" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40"
+        alt="Logo Adonis.js" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"
+        alt="Logo Jira" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"
+        alt="Logo Jest" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"
+        alt="Logo Nginx" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
+        alt="Logo Nginx" style="margin-right: 0.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"
+        alt="Logo Socket.io" style="margin-right: 0.5rem;" />
 </div>
 
 ___
